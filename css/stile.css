@@ -170,11 +170,11 @@ nav{
 
     .banner-text {
         padding-top: 250px;
+        margin-top: -18%
     }
 
     .banner-text h1 {
         font-size: 55px;
-        margin-top: -13%;
     }
 
     .banner-text p {
